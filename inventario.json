@@ -1,14 +1,14 @@
 [
     {
-        "id": "123",
-        "nombre": "Intel Core I7-12700KF BX8071512700KF",
-        "precio": 950.0,
-        "stock": 8
-    },
-    {
         "id": "3920",
         "nombre": "Amd Ryzen 7 8700g 5.3 Ghz Am5 1",
         "precio": 1349000.0,
-        "stock": 5
+        "stock": 10
+    },
+    {
+        "id": "123",
+        "nombre": "Intel Core I7-12700KF BX8071512700KF",
+        "precio": 1292930.0,
+        "stock": 56
     }
 ]
